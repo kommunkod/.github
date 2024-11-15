@@ -1,4 +1,4 @@
-![Kommunkod](./kommunkod.png)
+![Kommunkod](./kommunkod.png | width=300)
 
 # Kommunkod
 Ett repositorium av kod för Sveriges kommuner och andra offentliga organisationer. Vissa repositorier visas publikt, men en stor del visas endast internt.
