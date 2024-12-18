@@ -12,3 +12,6 @@ Organisationen ägs, uppdateras och hanteras av ett flertal kommuner, bland anna
 
 ## Syfte
 Att utbyta kod, moduler till integrationsplatform, synkar och andra program/integrationer som kan vara till nytta för flera organisationer. Att utbyta erfarenheter för att minska behovet av egen utveckling. Att publicera det vi arbetar med som är relevant för allmänheten för att bidra till bättre kod.
+
+## Diskussionsforum/Community
+Vi är på gång med att sätta upp ett community, diskussionsforum och eventuellt en gemensam dokumentation (tänk CesamH) för att kunna dela information både internt och publikt, och för att underlätta vårt arbete genom att samarbeta över kommungränserna. Kontakta oss på ovan för mer information.
